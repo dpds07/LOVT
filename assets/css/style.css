@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap');
+
+header {
+    background: #FFFFFF;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.25);
+  }
+
+body{
+    height: 1264px;
+    width: 697px;
+
+    font-family: 'Ropa Sans', sans-serif;
+}
+    .yourstyle1 {
+    margin-left: 0px;
+    height: 25px;
+    width: 63px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    }
+
+#part1 {
+    margin-left: 45px;
+    height: 25px;
+    width: 63px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+#part2{
+    height: 22px;
+    width: 38px;
+    margin-top: 13px;
+    margin-bottom: 14px;
+
+}
+#part3{
+    display:inline-table; 
+    height: 12px;
+    width: 18px;
+    margin-left: 503px;
+    margin-bottom: 19.1px;
+    margin-top: 18px;
+    margin-right: 0;
+} 
+.banner img{
+    height: 259px;
+    width: 608px;
+    margin-left: 44px;
+    margin-right: 45px;
+    margin-top: 20px;
+    margin-bottom: 37px;
+}  
+.blocos{
+    display: inline-flex;
+}
+.bloco1{
+    height: 242px;
+    width: 256px;
+    margin-left: 44px;
+    background-color:#EEEEEE;
+}
+.valores{
+    display: inline;
+}
+#valor{
+    margin-left: 12px;
+    margin-top: 9px;
+}
+#sit{
+    margin-left: 105px;
+    
+}
+#describ{
+    font-size: 10px;
+    margin-left: 12px;
+    margin-right: 13px;
+    margin-bottom: 14px;
+    text-align: justify;
+    margin-top: 0px;
+}
+.bloco2{
+    height: 242px;
+    width: 256px;
+    margin-left: 96px;
+    background-color:#EEEEEE;
+}
+#estilos{
+    color: #888888;
+    margin-top: 45px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 27px;
+    margin-bottom: -12.5px;
+}
+#industrial{
+    margin-top: -11px;
+    opacity: 75%;
+    margin-left: 44px;
+    height: 80px;
+    width: 608px;
+    background-image: url("/img/Rectangle\ 11.png");
+    margin-bottom: 13px;
+}
+#industrial p{
+   color: #FFFFFF;
+    text-align: center;
+    padding-top: 27.5px;
+    font-size: 25px;  
+}
+#modern{
+    margin-top: -11px;
+    opacity: 75%;
+    margin-left: 44px;
+    height: 80px;
+    width: 608px;
+    background-image: url("/img/Rectangle\ 12.png");
+    margin-bottom: 13px;
+}
+#modern p{
+   color: #FFFFFF;
+    text-align: center;
+    padding: 27.5px;
+    font-size: 25px;
+}
+#classic{
+    margin-top: -11px;
+    opacity: 75%;
+    margin-left: 44px;
+    height: 80px;
+    width: 608px;
+    background-image: url("/img/Rectangle\ 13.png");
+}
+#classic p{
+   color: #FFFFFF;
+    text-align: center;
+    padding-top: 27.5px;
+    font-size: 25px;
+}
+.footer{
+    display: inline-flex;
+    margin-top: 57px;
+    height: 243px;
+    width: 697px;
+    background-color: #333333;
+}
+#mapa{
+    margin-left: 44px;
+    padding-top: 40px;
+}
+#local{
+    color: #FFFFFF;
+    height: 95px;
+    width: 175px;
+    margin-left: 177px;
+    padding-top: 44px;
+    text-align: justify;
+    font-size: 12px;
+    line-height: 10px;
+}
+#face{
+    margin-left: 15px;
+    border-radius: 5px;
+}
+#insta{
+    margin-left: 5px;
+    border-radius: 5px;
+}
+#whats{
+    margin-left: 15px;
+    border-radius: 5px;
+}
